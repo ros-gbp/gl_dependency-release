@@ -1,0 +1,12 @@
+Source: ros-jade-gl-dependency
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-gl-dependency
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-qt4-gl
+Description: This encapsulates the GL dependency for a specific ROS distribution and its Qt version
