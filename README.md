@@ -1,3 +1,26 @@
+## gl_dependency (melodic) - 1.1.0-0
+
+The packages in the `gl_dependency` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic gl_dependency` on `Tue, 30 Jan 2018 19:34:33 -0000`
+
+The `gl_dependency` package was released.
+
+Version of package(s) in repository `gl_dependency`:
+
+- upstream repository: https://github.com/ros-visualization/gl_dependency.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## gl_dependency (lunar) - 1.1.0-0
 
 The packages in the `gl_dependency` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar gl_dependency` on `Fri, 24 Feb 2017 16:58:27 -0000`
