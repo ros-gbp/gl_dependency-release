@@ -1,3 +1,26 @@
+## gl_dependency (noetic) - 1.1.2-1
+
+The packages in the `gl_dependency` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic gl_dependency` on `Tue, 11 Feb 2020 00:36:56 -0000`
+
+The `gl_dependency` package was released.
+
+Version of package(s) in repository `gl_dependency`:
+
+- upstream repository: https://github.com/ros-visualization/gl_dependency.git
+- release repository: https://github.com/ros-gbp/gl_dependency-release.git
+- rosdistro version: `1.1.1-1`
+- old version: `1.1.1-1`
+- new version: `1.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## gl_dependency (noetic) - 1.1.1-1
 
 The packages in the `gl_dependency` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic gl_dependency` on `Mon, 10 Feb 2020 23:57:05 -0000`
