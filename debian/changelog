@@ -1,0 +1,8 @@
+ros-noetic-gl-dependency (1.1.4-1focal) focal; urgency=high
+
+  * Update CMakeLists.txt (#5 <https://github.com/ros-visualization/gl_dependency/issues/5>)
+  * Contributors: Arne Hitzmann
+
+ -- Michel Hidalgo <michel@ekumenlabs.com>  Fri, 25 Apr 2025 00:00:00 -0000
+
+
